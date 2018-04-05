@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Justin Brown)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I built a recipe display application using jQuery to respond to the users' requests. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://justinbrown2.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to access elements using jQuery syntax. 
+2. I learned how to use built-in jQuery syntax.
+3. I learned how to use jQuery to respond to the users' requests. 
 
